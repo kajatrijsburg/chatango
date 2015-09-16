@@ -4,15 +4,30 @@
 		<title>mah page</title>
 		<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
-		<script src="https://raw.githack.com/kajatrijsburg/chatango/master/JS.txt"></script>
+		<script src="https://raw.githack.com/kajatrijsburg/chatango/master/JS.js"></script>
 	</head>
 	<body>
+		<!-- menu -->
 		<ul id=menu_bar >
 			<li> <button onclick="display_about()" class="menu_item">about</button></li>
 			<li> <button onclick="display_talk_to_me()" class="menu_item">talk to me</button></li>
 			<li> <button onclick="display_chat_rooms()" class="menu_item">chat rooms</button></li>
 			<li> <button onclick="display_friends()" class="menu_item">friends</button></li>
 		</ul>
-		<p id=custom_text></p>
+		<!--content-->
+		<div id=about_me>
+			<h1>Hello stranger o/</h1>
+			<p>My name is xochitlpilli, but you can call me xochi.</p>
+		</div>
+		<div id=talk_to_me>
+			<p>I'll add this late, I swear</p>
+		</div>
+		<div id=chat_rooms>
+			<script id="cid0020000103405879154" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 250px;height: 350px;">{"handle":"soul-animetv","arch":"js","styles":{"a":"004400","b":100,"c":"FFFFFF","d":"FFFFFF","k":"004400","l":"004400","m":"004400","n":"FFFFFF","p":"14.31","q":"004400","r":100,"cnrs":"0.35","fwtickm":1}}</script>
+			<p>I'm looking for more ^-^. If you know any, hit me up!</p>
+		</div>
+		<div id=display_friends>
+			<p>make this display all friends</p>
+		</div>
 	</body>
 </html
