@@ -40,7 +40,7 @@ button.menu_item{
 	height: 30px;
 	font-size: 200%;
 	color: white;
-	background-color: #2D882D;
+	background-color: #004400;
 }
 
 button.menu_item:hover {
