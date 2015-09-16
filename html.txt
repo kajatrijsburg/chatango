@@ -6,7 +6,8 @@
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
 		<script src="https://raw.githack.com/kajatrijsburg/chatango/master/JS.js"></script>
 	</head>
-	<body onpageshow =onclick="display_category('welcome')" >
+	<body>
+	<div onpageshow="display_category('welcome')" ></div> 
 		<!-- menu -->
 		<ul id=menu_bar >
 			<li> <button onclick="display_category('about_me')" class="menu_item">about</button></li>
