@@ -23,12 +23,12 @@ body{
 	background-color: #1A1616;
 }
 #fpix_wrapper{
-	background-color: #1A1616;
 	margin: 0;
 	padding: 0;
 }
 #menu_bar{
 	list-style-type: none;
+	background-color: #1E4223;
 	margin: 0;
 	padding: 0;
 	display: inline;
@@ -37,7 +37,11 @@ body{
 	display: inline;
 	float: center;
 }
-
+#menu_link {
+    display: block;
+    width: 60px;
+	color: white;
+}
 p {
     color: #19450B;
 	text-align: center;
