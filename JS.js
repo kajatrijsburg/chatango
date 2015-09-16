@@ -7,5 +7,6 @@ function hide_all(){
 
 function display_category(category){
 	hide_all();
-	document.getElementById(category).style.display='block'
+	var i = category;
+	document.getElementById(i).style.display='block'
 }

@@ -6,8 +6,7 @@
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
 		<script src="https://raw.githack.com/kajatrijsburg/chatango/master/JS.js"></script>
 	</head>
-	<body>
-	<div onpageshow="display_category('welcome')" ></div> 
+	<body onpageshow ="display_category('welcome')"> 
 		<!-- menu -->
 		<ul id=menu_bar >
 			<li> <button onclick="display_category('about_me')" class="menu_item">about</button></li>
@@ -16,10 +15,14 @@
 			<li> <button onclick="display_category('friends')" class="menu_item">friends</button></li>
 		</ul>
 		<!--content-->
-		<div id=welcome>
+		<div id=welcome >
 			<p>Welcome to my profile, Navigate the menu to learn more about me.</p>
 		</div>
-		
+		<style>
+		#about_me, #talk_to_me, #chat_rooms, #friends{
+			display: none;
+		}
+		</style>
 		<div id=about_me>
 			<h1>Hello stranger o/</h1>
 			<p>My name is xochitlpilli, but you can call me xochi.</p>
@@ -37,7 +40,6 @@
 		<div id=friends>
 			<p>make this display all friends</p>
 		</div>
-		
 	</body>
 </html
 
