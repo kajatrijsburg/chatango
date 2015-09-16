@@ -20,7 +20,8 @@ table.fpix_header{
 span.profile_text{
 	display:none;
 }
-/*menu*/
+
+/*custom prettyness*/
 #menu{
 	list-style-type: none;
 	margin: 0;
