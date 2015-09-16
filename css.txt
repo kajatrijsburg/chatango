@@ -4,12 +4,12 @@ body{
 #profilephoto {
 	display:none;
 }
-	display:none;
-}
 #chatbutton_div{
 	display:none;
 }
-
+#outer_container{
+	display:none;
+}
 p {
 	background-color: black;
     color: orange;
