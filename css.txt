@@ -17,7 +17,6 @@ span.profile_text{
 	display:none;
 }
 p {
-	background-color: black;
-    color: orange;
+    color: #19450B;
 	text-align: center;
 }
