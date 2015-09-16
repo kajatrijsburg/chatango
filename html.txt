@@ -4,7 +4,7 @@
 		<title>mah page</title>
 		<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
-		<script src="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/JS.txt"></script>
+		<script src="https://rawgit.com/kajatrijsburg/chatango/master/JS.txt"></script>
 	</head>
 	<body>
 		<ul id=menu_bar >
