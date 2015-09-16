@@ -8,10 +8,10 @@
 	</head>
 	<body>
 		<ul id=menu_bar >
-			<li id=menu_item onclick="display_about()">about</li>
-			<li id=menu_item onclick="display_talk_to_me()">talk to me</li>
-			<li id=menu_item onclick="display_chat_rooms()">chat rooms</li>
-			<li id=menu_item onclick="display_friends()">friends</li>
+			<li class="menu_item" onclick="display_about()">about</li>
+			<li class="menu_item" onclick="display_talk_to_me()">talk to me</li>
+			<li class="menu_item" onclick="display_chat_rooms()">chat rooms</li>
+			<li class="menu_item" onclick="display_friends()">friends</li>
 		</ul>
 		<p id=custom_text></p>
 	</body>

@@ -33,7 +33,7 @@ body{
 	padding: 0;
 	display: inline;
 }
-#menu_item{
+li.menu_item{
 	display: inline;
 	float: left;
 	width: 150px;
@@ -43,11 +43,11 @@ body{
 	background-color: #1E4223;
 }
 
-li:hover {
+li.menu_item:hover {
     display: inline;
     width: 155px;
 	height: 35px;
-	font-size: 250%;
+	font-size: 210%;
 	color: white;
 }
 
