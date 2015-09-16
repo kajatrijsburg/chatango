@@ -53,7 +53,7 @@ button.menu_item:hover {
 }
 
 h1{
-	color: 55AA55;
+	color: #55AA55;
 	font-size: 160%;
 	text-align: center;
 }
