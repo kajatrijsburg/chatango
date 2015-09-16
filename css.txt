@@ -1,7 +1,4 @@
 p {
-<<<<<<< HEAD
     color: white;
-=======
->>>>>>> origin/master
 	text-align: center;
 }
