@@ -36,16 +36,16 @@ body{
 #menu_item{
 	display: inline;
 	float: left;
-	width: 100px;
+	width: 150px;
 	height: 30px;
 	font-size: 200%;
 	color: white;
 	background-color: #1E4223;
 }
 
-#menu_item  li:hover {
+li:hover {
     display: inline;
-    width: 105px;
+    width: 155px;
 	height: 35px;
 	font-size: 250%;
 	color: white;
