@@ -13,7 +13,7 @@
 #asltable{
 	display:none;
 }
-#profile_text{
+span.profile_text{
 	display:none;
 }
 p {
