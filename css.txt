@@ -7,7 +7,7 @@
 #chatbutton_div{
 	display:none;
 }
-div.logo_div{
+table.fpix_header{
 	display:none;
 }
 #asltable{
