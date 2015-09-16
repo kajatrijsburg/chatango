@@ -1,5 +1,4 @@
 function display_about(){
-	alert("succes");
 	document.getElementById("custom_text").innerHTML = "I'm cool";
 }
 function display_talk_to_me(){
