@@ -33,7 +33,7 @@ body{
 	padding: 0;
 	display: inline;
 }
-li.menu_item{
+button.menu_item{
 	display: inline;
 	float: left;
 	width: 150px;
@@ -43,7 +43,7 @@ li.menu_item{
 	background-color: #1E4223;
 }
 
-li.menu_item:hover {
+button.menu_item:hover {
     display: inline;
     width: 155px;
 	height: 35px;
