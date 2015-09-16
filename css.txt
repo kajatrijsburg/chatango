@@ -1,3 +1,6 @@
+body{
+	background-image: (url = 'http://img05.deviantart.net/7d88/i/2009/215/c/8/desktop_background___vines_2_by_starletly.png')
+}
 p {
 	background-color: black;
     color: orange;
