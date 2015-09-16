@@ -50,6 +50,7 @@ body{
 	font-size: 250%;
 	color: white;
 }
+
 p {
     color: #19450B;
 	text-align: center;
