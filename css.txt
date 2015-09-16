@@ -4,6 +4,18 @@ body{
 #profilephoto {
 	display:none;
 }
+#fpix_wrapper{
+	display:none;
+}
+#chatbutton_div{
+	display:none;
+}
+#outer_container{
+	display:none;
+}
+#left_container{
+	display:none;
+}
 p {
 	background-color: black;
     color: orange;
