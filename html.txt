@@ -4,13 +4,15 @@
 		<title>mah page</title>
 		<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
+		<script src="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/JS.txt"></script>
 	</head>
 	<body>
 		<ul id=menu_bar >
-			<li id=menu_item><a id="menu_link" href="">about</a></li>
-			<li id=menu_item><a id="menu_link" href="">talk to me</a></li>
-			<li id=menu_item><a id="menu_link" href="">chat rooms</a></li>
-			<li id=menu_item><a id="menu_link" href="">friends</a></li>
+			<li id=menu_item onclick="display_about()"><about</li>
+			<li id=menu_item><talk to me</li>
+			<li id=menu_item>chat rooms</li>
+			<li id=menu_item>friends</li>
 		</ul>
+		<p id=custom_text></p>
 	</body>
 </html

@@ -1,6 +1,12 @@
-function display_menu_item(){
-	switch{
-		case:0
-			document.getElementById("custom_text").innerHTML
-	}
+function display_about(){
+	document.getElementById("custom_text").innerHTML = "I'm cool";
+}
+function display_talk_to_me(){
+	document.getElementById("custom_text").innerHTML= "make this display a chat";
+}
+function display_chat_rooms(){
+	document.getElementById("custom_text").innerHTML = "make this display all chats";
+}
+function display_friends(){
+	document.getElementById("custom_text").innerHTML = "make this display all friends";
 }
