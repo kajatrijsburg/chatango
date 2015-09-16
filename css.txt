@@ -5,4 +5,5 @@ p {
 	background-color: black;
     color: orange;
 	text-align: center;
+	visibility: hidden;
 }
