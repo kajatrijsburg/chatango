@@ -1,10 +1,13 @@
 #fpix_wrapper{
-	background-image: (url = 'http://img05.deviantart.net/7d88/i/2009/215/c/8/desktop_background___vines_2_by_starletly.png')
+	background-color: 
 }
 #profilephoto {
 	display:none;
 }
 #chatbutton_div{
+	display:none;
+}
+#left_container {
 	display:none;
 }
 table.fpix_header{
