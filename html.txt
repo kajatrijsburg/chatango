@@ -6,13 +6,13 @@
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
 		<script src="https://raw.githack.com/kajatrijsburg/chatango/master/JS.js"></script>
 	</head>
-	<body onpageshow ="hide_all()" >
+	<body onpageshow =onclick="display_category('welcome')" >
 		<!-- menu -->
 		<ul id=menu_bar >
-			<li> <button onclick="display_category(about_me)" class="menu_item">about</button></li>
-			<li> <button onclick="display_category(talk_to_me)" class="menu_item">talk to me</button></li>
-			<li> <button onclick="display_category(chat_rooms)" class="menu_item">chat rooms</button></li>
-			<li> <button onclick="display_category(friends)" class="menu_item">friends</button></li>
+			<li> <button onclick="display_category('about_me')" class="menu_item">about</button></li>
+			<li> <button onclick="display_category('talk_to_me')" class="menu_item">talk to me</button></li>
+			<li> <button onclick="display_category('chat_rooms')" class="menu_item">chat rooms</button></li>
+			<li> <button onclick="display_category('friends')" class="menu_item">friends</button></li>
 		</ul>
 		<!--content-->
 		<div id=welcome>
