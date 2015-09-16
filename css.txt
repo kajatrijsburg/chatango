@@ -1,6 +1,8 @@
 /*disable all the things*/
 #fpix_wrapper{
 	background-color: #1A1616;
+	margin: 0;
+	padding: 0;
 }
 #profilephoto {
 	display:none;
