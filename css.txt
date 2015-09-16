@@ -4,7 +4,6 @@ body{
 #profilephoto {
 	display:none;
 }
-#fpix_wrapper{
 	display:none;
 }
 #chatbutton_div{
