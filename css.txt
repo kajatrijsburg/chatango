@@ -7,9 +7,7 @@ body{
 #chatbutton_div{
 	display:none;
 }
-#left_container{
-	display:none;
-}
+
 p {
 	background-color: black;
     color: orange;
