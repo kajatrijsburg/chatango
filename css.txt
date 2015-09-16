@@ -35,7 +35,7 @@ body{
 }
 button.menu_item{
 	display: inline;
-	float: center;
+	float: left;
 	width: 150px;
 	height: 30px;
 	font-size: 200%;
