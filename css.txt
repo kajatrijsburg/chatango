@@ -39,7 +39,14 @@ body{
 }
 #menu_link {
     display: inline;
-    width: 120px;
+    width: 300px;
+	height: 75px;
+	color: white;
+}
+#menu_link:hover {
+    display: inline;
+    width: 350px;
+	height: 100px;
 	color: white;
 }
 p {
