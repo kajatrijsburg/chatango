@@ -52,7 +52,14 @@ button.menu_item:hover {
 	background-color: #116611;
 }
 
+h1{
+	
+	
+}
+
 p {
     color: #19450B;
 	text-align: center;
+	font-size: 150%
+	color: #88CC88;
 }
