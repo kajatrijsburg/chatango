@@ -1,17 +1,7 @@
-body {
-	background-color: black;
-}
 p {
-    color: #222922;
-    background-color: #d0e4fe;
-}
-
-h1 {
-    color: orange;
-    text-align: center;
-}
-
-p {
+<<<<<<< HEAD
     color: white;
+=======
+>>>>>>> origin/master
 	text-align: center;
 }
