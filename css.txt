@@ -7,7 +7,12 @@ body{
 #chatbutton_div{
 	display:none;
 }
-
+#logo_div{
+	display:none;
+}
+#fpix_asl_table{
+	display:none;
+}
 p {
 	background-color: black;
     color: orange;
