@@ -25,7 +25,7 @@
 		</div>
 		
 		<div id=talk_to_me>
-			<p>I'll add this late, I swear</p>
+			<p>I'll add this later, I swear</p>
 		</div>
 		
 		<div id=chat_rooms>
