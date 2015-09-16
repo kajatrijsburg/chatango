@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>mah page</title>
+		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
+
+	</head>
+	<body>
+		<p>(xochitl~flower, pilli~prince/child)</p>
+
+		<p>"As the population grew, the population became 
+		stupiderat an alarming rate, what used to be 
+		survival of the fittest: awarding people for being the smartest
+		and strongest, society simply awarded the people who reproduced the most." </p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/pot2rSmnswA" frameborder="0" allowfullscreen></iframe>
+	</body>
+</html>
