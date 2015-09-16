@@ -7,7 +7,7 @@ body{
 #chatbutton_div{
 	display:none;
 }
-#outer_container{
+#left_container{
 	display:none;
 }
 p {
