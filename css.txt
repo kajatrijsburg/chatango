@@ -1,3 +1,4 @@
+/*disable all the things*/
 #fpix_wrapper{
 	background-color: 
 }
@@ -10,14 +11,22 @@
 #left_container {
 	display:none;
 }
-table.fpix_header{
+#asltable{
 	display:none;
 }
-#asltable{
+table.fpix_header{
 	display:none;
 }
 span.profile_text{
 	display:none;
+}
+/*menu*/
+#menu{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	display: inline;
+	
 }
 p {
     color: #19450B;
