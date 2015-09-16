@@ -35,10 +35,10 @@ body{
 }
 #menu_item{
 	display: inline;
-	float: center;
+	float: left;
 }
 #menu_link {
-    display: block;
+    display: inline;
     width: 120px;
 	color: white;
 }

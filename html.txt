@@ -7,10 +7,10 @@
 	</head>
 	<body>
 		<ul id=menu_bar >
-			<li id=menu_item><a href="contact.asp">about</a></li>
-			<li id=menu_item><a href="contact.asp">talk to me</a></li>
-			<li id=menu_item><a href="contact.asp">chat rooms</a></li>
-			<li id=menu_item><a href="contact.asp">friends</a></li>
+			<li id=menu_item><a id="menu_link" href="">about</a></li>
+			<li id=menu_item><a id="menu_link" href="">talk to me</a></li>
+			<li id=menu_item><a id="menu_link" href="">chat rooms</a></li>
+			<li id=menu_item><a id="menu_link" href="">friends</a></li>
 		</ul>
 	</body>
 </html
