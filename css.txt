@@ -1,6 +1,6 @@
 /*disable all the things*/
 #fpix_wrapper{
-	background-color: 
+	background-color: #1A1616;
 }
 #profilephoto {
 	display:none;
@@ -23,10 +23,9 @@ span.profile_text{
 /*menu*/
 #menu{
 	list-style-type: none;
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 	display: inline;
-	
 }
 p {
     color: #19450B;
