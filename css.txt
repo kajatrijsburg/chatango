@@ -27,11 +27,15 @@ body{
 	margin: 0;
 	padding: 0;
 }
-#menu{
+#menu_bar{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	display: inline;
+}
+#menu_item{
+	display: inline;
+	float: center;
 }
 
 p {

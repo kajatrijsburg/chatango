@@ -6,11 +6,11 @@
 		<link rel="stylesheet" href="https://raw.githubusercontent.com/kajatrijsburg/chatango/master/css.txt">
 	</head>
 	<body>
-		<ul id=menu >
-			<li>about</li>
-			<li>talk to me</li>
-			<li>chat rooms</li>
-			<li>friends</li>
+		<ul id=menu_bar >
+			<li id=menu_item>about</li>
+			<li id=menu_item>talk to me</li>
+			<li id=menu_item>chat rooms</li>
+			<li id=menu_item>friends</li>
 		</ul>
 	</body>
 </html
