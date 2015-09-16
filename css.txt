@@ -36,8 +36,8 @@ body{
 #menu_item{
 	display: inline;
 	float: left;
-	width: 300px;
-	height: 75px;
+	width: 100px;
+	height: 30px;
 	font-size: 200%;
 	color: white;
 	background-color: #1E4223;
@@ -45,8 +45,8 @@ body{
 
 #menu_item  li:hover {
     display: inline;
-    width: 350px;
-	height: 100px;
+    width: 105px;
+	height: 35px;
 	font-size: 250%;
 	color: white;
 }
