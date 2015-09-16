@@ -43,6 +43,7 @@ body{
 	height: 75px;
 	font-size: 200%;
 	color: white;
+	background-color: #1E4223;
 }
 a:hover {
     display: inline;
