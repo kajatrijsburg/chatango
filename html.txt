@@ -12,6 +12,5 @@
 			<li>chat rooms</li>
 			<li>friends</li>
 		</ul>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/pot2rSmnswA" frameborder="0" allowfullscreen></iframe>
 	</body>
 </html

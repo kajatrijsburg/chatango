@@ -1,9 +1,4 @@
 /*disable all the things*/
-#fpix_wrapper{
-	background-color: #1A1616;
-	margin: 0;
-	padding: 0;
-}
 #profilephoto {
 	display:none;
 }
@@ -24,12 +19,21 @@ span.profile_text{
 }
 
 /*custom prettyness*/
+body{
+	background-color: #1A1616;
+}
+#fpix_wrapper{
+	background-color: #1A1616;
+	margin: 0;
+	padding: 0;
+}
 #menu{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	display: inline;
 }
+
 p {
     color: #19450B;
 	text-align: center;
