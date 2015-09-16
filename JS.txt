@@ -1,5 +1,5 @@
 function display_about(){
-	document.getElementById("custom_text").innerHTML = "I'm cool";
+	alert("succes" + document.getElementById("custom_text").innerHTML = "I'm cool";);
 }
 function display_talk_to_me(){
 	document.getElementById("custom_text").innerHTML= "make this display a chat";
