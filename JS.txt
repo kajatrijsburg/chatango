@@ -1,0 +1,6 @@
+function display_menu_item(){
+	switch{
+		case:0
+			document.getElementById("custom_text").innerHTML
+	}
+}
