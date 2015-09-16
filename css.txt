@@ -28,7 +28,7 @@ body{
 }
 #menu_bar{
 	list-style-type: none;
-	background-color: #1E4223;
+	background-color: #2D882D;
 	margin: 0;
 	padding: 0;
 	display: inline;
@@ -40,7 +40,7 @@ button.menu_item{
 	height: 30px;
 	font-size: 200%;
 	color: white;
-	background-color: #1E4223;
+	background-color: #2D882D;
 }
 
 button.menu_item:hover {
@@ -49,6 +49,7 @@ button.menu_item:hover {
 	height: 35px;
 	font-size: 210%;
 	color: white;
+	background-color: #116611;
 }
 
 p {
