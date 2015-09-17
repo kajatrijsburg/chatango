@@ -1,21 +1,21 @@
 /*disable all the things*/
 #profilephoto {
-	display:none;
+	visibility: hidden;
 }
 #chatbutton_div{
-	display:none;
+	visibility: hidden;
 }
 #left_container {
-	display:none;
+	visibility: hidden;
 }
 #asltable{
-	display:none;
+	visibility: hidden;
 }
 table.fpix_header{
-	display:none;
+	visibility: hidden;
 }
 span.profile_text{
-	display:none;
+	visibility: hidden;
 }
 
 /*custom prettyness*/
