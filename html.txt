@@ -20,7 +20,7 @@
 		</div>
 		<style>
 		#about_me, #talk_to_me, #chat_rooms, #friends{
-			display: none;
+			visibility: hidden;
 		}
 		</style>
 		<div id=about_me>
